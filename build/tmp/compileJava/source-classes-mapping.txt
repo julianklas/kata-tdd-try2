@@ -1,0 +1,6 @@
+com/kata/sls/domain/Home.java
+ com.kata.sls.domain.Home
+com/kata/sls/domain/Light.java
+ com.kata.sls.domain.Light
+com/kata/sls/domain/User.java
+ com.kata.sls.domain.User
